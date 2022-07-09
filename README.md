@@ -2,6 +2,10 @@
 
 An internship seeker-themed front end mobile application
 
+## Link to download apk
+
+https://bit.ly/internship-id
+
 ## Feature
 
 The application is a mobile front end design for the development of internship and job search applications.
