@@ -1,16 +1,62 @@
-# flutter_project
+# Flutter-Internship.id
 
-A new Flutter project.
+An internship seeker-themed front end mobile application
 
-## Getting Started
+## Feature
 
-This project is a starting point for a Flutter application.
+The application is a mobile front end design for the development of internship and job search applications.
 
-A few resources to get you started if this is your first Flutter project:
+## Package used in
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- flutter_custom_tab_bar: ^1.1.9
+- provider: ^6.0.2
+- uuid: ^3.0.6
+- intl: ^0.17.0
+- file_picker: ^4.5.1
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some app screenshots
+
+### SplashScreen
+![gambar](./screenshot/pict1.png)
+
+### LoginScreen
+![gambar](./screenshot/pict2.png)
+
+### HomeScreen
+![gambar](./screenshot/pict3.png)
+
+### PerCategoryScreen
+![gambar](./screenshot/pict4.png)
+
+### DetailScreen
+![gambar](./screenshot/pict5.png)
+
+### DetailApplyScreen
+![gambar](./screenshot/pict6.png)
+
+### ActivitiesScreen
+![gambar](./screenshot/pict7.png)
+
+### ActivitiesDeleteScreen
+![gambar](./screenshot/pict8.png)
+
+### AddNetworkScreen
+![gambar](./screenshot/pict9.png)
+
+### MyNetworkScreen
+![gambar](./screenshot/pict10.png)
+
+### ProfileScreen
+![gambar](./screenshot/pict11.png)
+
+### ProfileScreen
+![gambar](./screenshot/pict11.png)
+
+### ProfilePermissionMediaScreen
+![gambar](./screenshot/pict12.png)
+
+### EditProfileScreen
+![gambar](./screenshot/pict13.png)
+
+### ProfileAfterEditScreen
+![gambar](./screenshot/pict13.png)
